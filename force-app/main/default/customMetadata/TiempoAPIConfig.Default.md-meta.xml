@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Default</label>
+    <protected>false</protected>
+    <values>
+        <field>APIKey__c</field>
+        <value xsi:type="xsd:string">14be9cd5fca7a9d9c1d7b81a6e491d6d</value>
+    </values>
+    <values>
+        <field>UrlBase__c</field>
+        <value xsi:type="xsd:string">https://api.openweathermap.org/data/2.5/forecast</value>
+    </values>
+</CustomMetadata>
